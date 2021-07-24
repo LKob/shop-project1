@@ -395,7 +395,6 @@ text-decoration: underline;
     padding-right: 15px;
 }
 .slides {
-    position: relative;
     font-size: 100px;
     color: #ffffff;  
 }
